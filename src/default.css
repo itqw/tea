@@ -7,7 +7,7 @@
     justify-content: center;
 }
 .centerCard {
-    width: 200px;
+    width: 250px;
     height: 100px;
     display: table;
     box-shadow: 0 19px 38px rgba(255, 255, 255, 0.94), 0 15px 12px rgba(255, 255, 255, 0.91);
